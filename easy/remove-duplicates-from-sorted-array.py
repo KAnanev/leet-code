@@ -1,7 +1,6 @@
-from typing import List
-
-
 # https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+
+from typing import List
 
 
 def remove_duplicates(nums: List[int]) -> int:
